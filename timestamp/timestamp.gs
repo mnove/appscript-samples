@@ -1,3 +1,8 @@
+
+// Create a custom timestamp function in Google Appscript, that you can use in Google Sheets 
+
+
+
 /**
 *
 *Get timestamp
